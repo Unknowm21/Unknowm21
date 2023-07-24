@@ -25,4 +25,4 @@
 ##
 
 
-![Snake animation](https://github.com/Unknowm21/Unknowm21/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Unknowm21/Unknowm21/blob/output/github-contribution-grid-snake.gif)
